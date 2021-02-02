@@ -52,11 +52,8 @@
   line-height: -30px;
 }
 
-#lastpic{
-  width: 1200px;
-}
-
-h1{
+h1
+{
   font-size: 50px;
   background: rgb(2,0,36);
   background: -webkit-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(47,223,212,0.5491990846681922) 100%);
@@ -64,14 +61,16 @@ h1{
   background: linear-gradient(to right, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(47,223,212,0.5491990846681922) 100%);
 }
 
-h2{
+h2
+{
   font-family: "Open Sans", arial, sans-serif;
   font-size: 40px;
   text-align: center;
   padding-top: 30px;
 }
 
-p {
+p
+{
 	padding-top: 30px;
 	width: 1200px;
 	margin: 0 auto;
